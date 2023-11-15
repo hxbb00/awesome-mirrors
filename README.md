@@ -1,1 +1,40 @@
 # awesome-mirrors
+
+# 校园网联合镜像站
+https://mirrors.cernet.edu.cn/
+
+# 西北地区
+###### 兰州大学：http://mirror.lzu.edu.cn
+###### 西安交通大学：http://mirrors.xjtu.edu.cn/
+###### 西北农林科技大学：https://mirrors.nwsuaf.edu.cn/
+# 西南地区
+###### 重庆大学：https://mirrors.cqu.edu.cn/
+# 东北地区
+###### 哈尔滨工业大学：http://mirrors.hit.edu.cn/#/home
+###### 吉林大学：http://mirrors.jlu.edu.cn
+###### 东北大学：http://mirror.neu.edu.cn/
+###### 大连东软信息学院：http://mirrors.neusoft.edu.cn/
+# 华东地区
+###### 清华大学：https://mirrors.tuna.tsinghua.edu.cn
+###### 北京外国语大学：https://mirrors.bfsu.edu.cn/
+###### 北京大学：http://mirrors.pku.edu.cn/
+###### 北京交通大学：https://mirror.bjtu.edu.cn/
+###### 北京理工大学：https://mirrors.bit.edu.cn/web/
+###### 北京邮电大学：http://mirrors.bupt.edu.cn/
+###### 中科院软件研究所：https://mirror.iscas.ac.cn/
+###### 山东大学：https://mirrors.sdu.edu.cn/#/mirror
+###### 齐鲁工业大学：https://mirrors.qlu.edu.cn/
+###### 山东女子学院：http://mirrors.sdwu.edu.cn/
+###### 南京大学：https://mirrors.nju.edu.cn/
+###### 南京工业大学：https://mirrors.njtech.edu.cn/mirrors
+###### 南京邮电大学：http://mirrors.njupt.edu.cn/
+###### 上海交通大学：https://mirror.sjtu.edu.cn
+###### 上海科技大学：https://mirrors.shanghaitech.edu.cn/
+###### 浙江大学：http://mirrors.zju.edu.cn/
+# 华中地区
+###### 南阳理工学院：https://mirror.nyist.edu.cn/
+###### 中国科学技术大学：https://mirrors.ustc.edu.cn/
+###### 武昌首义学院：https://mirrors.wsyu.edu.cn
+# 华南地区
+###### 南方科技大学：http://mirrors.sustech.edu.cn/
+###### 华南农业大学：https://mirrors.scau.edu.cn/
